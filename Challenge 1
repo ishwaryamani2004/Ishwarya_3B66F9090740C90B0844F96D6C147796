@@ -1,0 +1,6 @@
+# python program to find the LCM. of two input number
+def compute_lcm(x,y)
+if
+great=x
+else:
+great=y
